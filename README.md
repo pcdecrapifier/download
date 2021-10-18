@@ -14,4 +14,4 @@ So that you do not have another program on your computer, the tool works without
 
 The current version is completely rewritten and can now be updated faster with extended program lists.
 
-## You can download PC Decrapifier [here](#)
+## You can download PC Decrapifier [here](https://github.com/pcdecrapifier/download/blob/main/pc-decrapifier-3.0.1.exe)
