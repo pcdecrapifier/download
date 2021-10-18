@@ -1,4 +1,4 @@
-# PC Decrapifier
+# PC Decrapifier 3.0.1
 
 ![programs-found](https://user-images.githubusercontent.com/92755388/137795998-d3f3c28c-dd85-4fb5-9990-17022a31f641.jpg)
 
